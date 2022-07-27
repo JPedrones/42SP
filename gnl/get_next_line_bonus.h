@@ -6,7 +6,7 @@
 /*   By: joapedr2 <jpedrones@hotmail.com>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/30 00:11:14 by joapedr2          #+#    #+#             */
-/*   Updated: 2022/07/05 21:00:20 by joapedr2         ###   ########.fr       */
+/*   Updated: 2022/07/27 20:12:36 by joapedr2         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,6 @@
 
 # include <stdlib.h>
 # include <unistd.h>
-# include <stdio.h>
 
 char	*get_next_line(int fd);
 
