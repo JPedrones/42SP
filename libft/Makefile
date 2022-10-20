@@ -28,7 +28,7 @@ SRCS		=	$(CHECKERS)/ft_isalnum.c			$(CHECKERS)/ft_isalpha.c		\
 				$(WRITERS)/ft_putchar.c				$(WRITERS)/ft_putchar_fd.c		\
 				$(WRITERS)/ft_putendl_fd.c			$(WRITERS)/ft_putnbr_fd.c		\
 				$(WRITERS)/ft_putstr.c				$(WRITERS)/ft_putstr_fd.c		\
-				$(GNL)/get_next_line.c				$(GNL)/get_next_line_utils.c	\
+				$(GNL)/get_next_line.c				\
 				$(PRINTF)/ft_printf.c				$(PRINTF)/ft_printf_utils.c
 
 OBJS		= $(SRCS:.c=.o)
