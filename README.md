@@ -26,6 +26,6 @@ Fdf é um wireframe model 3D e o projeto mais complexo do Instituto 42 até agor
 
 Neste projeto foi utilizado uma versão do algoritmo [bresenham](https://pt.wikipedia.org/wiki/Algoritmo_de_Bresenham) para desenhar retas diagonais.
 
-![42.fdf map](/fdf/maps/42_map.png)
-
 **Desafios:** Aprender a utilizar a Minilibx e a Xlib, entender os conceitos do servidor gráfico e o conceito de desenhar pixels em tela.
+
+![42.fdf map](/fdf/maps/42_map.png)
